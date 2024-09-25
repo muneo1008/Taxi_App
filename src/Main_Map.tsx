@@ -117,9 +117,9 @@ function Main_Map(): React.JSX.Element {
     //           console.log(err);
     //       });
     // };
-    
+
     let query = {
-      key: 'AIzaSyBCYowvUvStx61Cw4efeACvKAb3VlHkfNU',
+      key: '',
         lang: 'ko',
         components:'country:kr',
     };
